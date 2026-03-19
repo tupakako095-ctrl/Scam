@@ -57,7 +57,7 @@ no.addEventListener("click", () => {
 yes.addEventListener("click", () => {
   vid.style.display = "block";
   gif.src = "idc.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
-  text.innerHTML = "Sawakas, pumayag karin sheesh";
+  text.innerHTML = "Yown, JERHMAINE";
   yes.innerHTML = '<a href="https://www.facebook.com/carl.jervin.p.malveda">Message me</a>';// inside the " " put your social media profile link
   yes.style.height = "90%";
   yes.style.width = "96%";
